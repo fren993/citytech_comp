@@ -5,7 +5,7 @@ body{
 .header{
   display: flex;
   text-align: left;
-  text-wrap: row;
+  text-wrap: column;
 }
 
 ul{
