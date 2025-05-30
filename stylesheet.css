@@ -9,7 +9,8 @@ h2{
   text-align: left;
   text-wrap: column;
 }
-.content{
+
+.menu{
   display: flex;
 }
 
