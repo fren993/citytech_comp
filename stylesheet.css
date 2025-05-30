@@ -1,5 +1,7 @@
 body{
   background-color: #f5d7ef;
+  align-items: center;
+  font-family: "Sour Gummy", sans-serif;
 }
 h2{
   text-align: left;
@@ -10,9 +12,6 @@ h2{
   text-wrap: column;
 }
 
-.menu{
-  display: flex;
-}
 
 ul{
   list-style-type: none;
@@ -24,7 +23,7 @@ li{
 } 
 ul {
   border: 1px solid #470b29;
-  background-color: #f091de;
+  background-color: #f4aae6;
 }
 
 li a {
