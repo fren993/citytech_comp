@@ -1,7 +1,9 @@
 body{
   background-color: #f5d7ef;
-  align-items: center;
-  font-family: "Sour Gummy", sans-serif;
+
+    font-family: "Sour Gummy", sans-serif;
+  width: 60%;
+  height: auto;
 }
 h2{
   text-align: left;
@@ -10,6 +12,7 @@ h2{
  display: flex;
   text-align: left;
   text-wrap: column;
+ 
 }
 
 
@@ -28,4 +31,9 @@ ul {
 
 li a {
   color: #662651;
+  background-color: pink;
+}
+
+a:hover{
+  background-color: #662651;
 }
