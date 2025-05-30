@@ -22,3 +22,11 @@ ul{
 li{
  display: inline;
 } 
+ul {
+  border: 1px solid #470b29;
+  background-color: #f091de;
+}
+
+li a {
+  color: #662651;
+}
