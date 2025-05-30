@@ -4,7 +4,8 @@ body{
 
 .header{
   display: flex;
-  text-align: left, row;
+  text-align: left;
+  text-wrap: row;
 }
 
 ul{
