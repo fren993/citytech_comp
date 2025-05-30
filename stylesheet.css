@@ -9,7 +9,9 @@ body{
   text-align: center;
 }
 img{
-    color: #5f1f4a;
+    width:9%;
+    height:9%;
+    display: flex;
 
 }
 h1{
