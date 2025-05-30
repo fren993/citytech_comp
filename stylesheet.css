@@ -5,18 +5,22 @@ body{
   width:auto;
   text-decoration-color:#5f1f4a;
 }h2{
+  color: #5f1f4a;
   text-align: center;
 }
 img{
-  align-self: center;
+    color: #5f1f4a;
+
 }
 h1{
+    color: #5f1f4a;
   text-align: center;
 }
 h3{
+    color: #5f1f4a;
   text-align: center;
 }
-h4{text-align: center;}
+h4{  color: #5f1f4a;text-align: center;}
 p{text-align: center;}
 
 .header{
