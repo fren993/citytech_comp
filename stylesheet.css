@@ -1,11 +1,16 @@
 body{
   background-color: #f5d7ef;
 }
-
+h2{
+  text-align: left;
+}
 .header{
-  display: flex;
+ display: flex;
   text-align: left;
   text-wrap: column;
+}
+.content{
+  display: flex;
 }
 
 ul{
